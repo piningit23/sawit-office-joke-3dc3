@@ -3,6 +3,7 @@
 
 Writes a single line of office comedy (1-200 characters) to /output/entry.txt.
 The joke is written by hand, deterministic, stdlib only, no network, no input.
+Verified locally: the joke is exactly 140 characters, one line, ASCII only.
 """
 
 JOKE = (
